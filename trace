@@ -6,3 +6,4 @@ edit branch 03
 hello23
 add to trace
 this also shouldn't be ignored
+at trace I'm going to test git clean together with .gitattributes
